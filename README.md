@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<ParstagramDemo1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src="ParstagramDemo1.gif" width=250><br>
 
 GIF created with Kap.
 
